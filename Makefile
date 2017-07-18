@@ -1,7 +1,7 @@
 #Makefile for java KPlot and tests
 
-all: Wt2.class Wt2.java
-	java Wt2
+all: Example1.class Example1.java KPlot.class
+	java Example1
 
-Wt2.class: Wt2.java
-	javac Wt2.java
+Example1.class: Example1.java
+	javac Example1.java
