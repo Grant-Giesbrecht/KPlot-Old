@@ -27,7 +27,7 @@ class Example1{
         KPlot kp = new KPlot("KPlot Window");
         kp.addPlotTrace(pt);
 		kp.addPlotTrace(pt2);
-		kp.setAxes(-2, 12, -2, 12);
+		kp.setBounds(-2, 12, -2, 12);
 	}
 
 }
