@@ -1,6 +1,8 @@
 # KPlot
 Plotting Library for C++ and Java
 
+*This project is no longer maintained*
+
 A major handicap of C++ and Java is that there is no easy way to quickly throw your data on screen as plots. This has two
 horrifing effects:
   1. Reduce the visibility of data produced with these languages!
